@@ -1,7 +1,7 @@
 # util.css
 a js generated css utility framework
 
-NOTE: this is not inteded to be kept up to date, in fact, it was 100% made for [Util.js](https://github.com/mr-winson/Util.js)
+NOTE: this is not inteded to be kept up to date, in fact, it was 100% made for [facebook.js](https://github.com/mr-winson/facebook.js)
 
 ## TODO
 - [ ] flexbox.css file generation
