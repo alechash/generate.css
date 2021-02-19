@@ -1,4 +1,4 @@
-# util.css
+# generate.css
 a js generated css utility framework (69.7 kilobytes)
 
 NOTE: this is not inteded to be kept up to date, in fact, it was 100% made for [facebook.js](https://github.com/mr-winson/facebook.js)

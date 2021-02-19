@@ -1,5 +1,5 @@
 /**
- * this compiles the Util.css framework
+ * this compiles the generate.css framework
  */
 const fs = require("fs");
 const path = require("path");
@@ -15,9 +15,9 @@ function generate() {
         outputCss = outputCss + fs.readFileSync(path.join(__dirname, `..`, `dist/${cssFiles[i]}.css`));
     }
 
-    fs.writeFile(path.join(__dirname, `..`, `util.css`), outputCss, function (err) {
+    fs.writeFile(path.join(__dirname, `..`, `generate.css`), outputCss, function (err) {
         if (err) return console.log(err);
-        console.log('Successfully compiled util.css');
+        console.log('Successfully compiled generate.css');
     });
 }
 
