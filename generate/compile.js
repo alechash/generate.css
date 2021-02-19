@@ -5,7 +5,7 @@ const fs = require("fs");
 const path = require("path");
 
 // all css files in dist folder except the import file. dont put .css either
-var cssFiles = ['utilities', 'colors', 'other']
+var cssFiles = ['utilities', 'colors', 'other', 'flexbox', 'standard']
 
 var outputCss = ''
 

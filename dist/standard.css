@@ -1,0 +1,19 @@
+.hidden {
+    display: none;
+}
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+
+.font-sans {
+    font-family: sans-serif;
+}
+
+.font-times {
+    font-family: times;
+}
